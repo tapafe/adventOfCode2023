@@ -1,4 +1,4 @@
-input = open("input.txt").read().strip()
+input = open("input").read().strip()
 input_list = input.split('\n')
 
 time, distance = input_list
